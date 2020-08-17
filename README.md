@@ -2,9 +2,7 @@
 govtrack html/css templates
 
 libraries:
-Bootstrap 3
-
-Font-awesome-icons
+Bootstrap 3, Font-awesome-icons
 
 Directions:
 git clone repo
