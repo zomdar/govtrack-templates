@@ -10,7 +10,7 @@ SSH:
 > git clone git@github.com:zomdar/govtrack-templates.git
 
 HTTPS:
-> https://github.com/zomdar/govtrack-templates.git
+> git clone https://github.com/zomdar/govtrack-templates.git
 
 open 
 > demo.html
