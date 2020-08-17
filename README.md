@@ -2,7 +2,8 @@
 govtrack html/css templates
 
 libraries:
-Bootstrap 
+Bootstrap 3
+
 Font-awesome-icons
 
 Directions:
